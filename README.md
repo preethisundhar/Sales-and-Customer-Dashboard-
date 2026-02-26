@@ -22,7 +22,7 @@ The project helps analyze business data and supports data-driven decision making
 
 ### 🔹 Sales Dashboard
 
-![Sales Dashboard](C:\Users\Admin\Desktop\Project\Tableau\Images\Sales Dashboard.png)
+![Sales Dashboard](C:/Users/Admin/Desktop/Project/Tableau/Images/Sales Dashboard.png)
 
 This dashboard includes:
 
@@ -36,7 +36,7 @@ This dashboard includes:
 
 ### 🔹 Customer Dashboard
 
-![Customer Dashboard](C:\Users\Admin\Desktop\Project\Tableau\Images\Customer Dashboard.png)
+![Customer Dashboard](C:/Users/Admin/Desktop/Project/Tableau/Images/Customer Dashboard.png)
 
 This dashboard includes:
 
@@ -109,3 +109,4 @@ Tableau-Sales-Customer-Dashboard
 ## 👩‍💻 Author
 
 Preethi
+
