@@ -66,10 +66,7 @@ Dataset contains:
 
 File:
 
-Customer.csv
-Location.csv
-Orders.csv
-Products.csv
+📁 Data set 
 
 ---
 
@@ -109,4 +106,5 @@ Tableau-Sales-Customer-Dashboard
 ## 👩‍💻 Author
 
 Preethi
+
 
